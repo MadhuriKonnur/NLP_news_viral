@@ -1,4 +1,4 @@
-This  is  for  pre  internship  evaluattion  assignment  by 
+This  is  for  pre  internship  evaluation  assignment  by 
 #Bipolar Factory
 
 Approach :
